@@ -1,0 +1,22 @@
+
+On Desktop:
+F:\HND_Oliver\@Year 2\Mon.Developing websites Multiplatform Use (Liam)\xampp
+
+
+On Laptop:
+F:\Non_Collage_Stuff\Software\Xampp\htdocs
+
+In Collage:
+room 343-344
+C:\xampp\htdocs
+
+
+F:\_websites
+
+V1-pre11/11/19
+V2-11/11/19
+V3-13/11/19
+V4-18/11/19-has main set with images for tournie
+V5-18/11/19-has json main
+
+

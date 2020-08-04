@@ -1,0 +1,4 @@
+1.Fix thisclubs page to allow all clubs to access it once clicked
+2.Once thisclubs is instanciated fill with wiki and clicked clubs data
+3.Nav Bar search method: use unorderd array list
+4.Set up contacts page to a notepad or email

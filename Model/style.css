@@ -1,0 +1,159 @@
+/*CSS FILE*/
+/*Colour Palatte:purple(#4F328A), white(#ffffff), dark(#26272b)*/
+
+html{
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+@viewport{
+  zoom: 1.0;
+  width: extend-to-zoom;
+}
+@-ms-viewport{
+  width: extend-to-zoom;
+  zoom: 1.0;
+}
+body
+{
+  font-size: 19px;
+  background:#4F328A;
+  /*background: url(../View/images/mattywithtrophy.jpg) no-repeat center fixed;*/
+  background-size: cover;
+}
+
+/************************************ *index page*/
+
+.login-box
+{
+  float: none;
+  max-width:700px;
+  margin: 50px auto;
+  text-align: center;
+}
+.signup
+{
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10%;
+  background: #26272b;
+  background: rgba(255,255,255, 0.8);
+  padding:30px;
+  border-radius: 20px;
+}
+.login-left
+{
+  background: #26272b;
+  background: rgba(255,255,255, 0.5);
+  /*background-color: transparent;*/
+  padding:30px;
+  border-radius: 20px;
+}
+.login-right
+{
+  background: #26272b;
+  background: rgba(255,255,255, 0.8);
+  /*background-color: transparent;*/
+  padding:30px;
+  border-radius: 20px;
+}
+.form-control
+{
+  /*background: rgba(255,255,255, 0.8);*/
+  background-color: transparent;
+}
+/*************************************  Main Page */
+.main{
+  text-align: center;
+}
+
+.main{
+margin-left: 10%;
+margin-right: 10%;
+}
+/************************************* table page table*/
+table{
+  background:#F5F5F5;
+  width:50%;
+  max-width:700px;
+  margin:30px auto;
+  border-collapse: collapse;
+  text-align: left;
+}
+tr{
+  border-bottom:1px solid #cbcbcb;
+}
+th,td{
+  border: none;
+  height:30px;
+  padding: 2px;
+
+}
+tr:hover{
+  background:#333399;
+}
+.form1{
+  width: 45%;
+  margin: 50px auto;
+  text-align: left;
+  padding: 20px;
+  border: 1px solid #bbbbbb;
+  border-radius: 5px;
+
+}
+.input-table{
+  margin:10px 0px 10px 0px;
+}
+.input-table label{
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-table input{
+  height: 30px;
+  width: 75%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.savebtn{
+  padding:10px;
+  font-size: 15px;
+  color: white;
+  background: #5F9EA0;
+  border:none;
+  border-radius: 5px;
+}
+/************************************ Contact Us page */
+
+/************************************ Clubs page */
+
+.wrapper{
+  max-width: 100%;
+  text-align: center;
+}
+.roititle{
+  text-align: center;
+  padding: 10px;
+}
+.nititle{
+  text-align: center;
+  padding: 20px;
+}
+.irishclubs{
+  padding: 20px 10px 2px;
+  margin-left: 20%;
+  max-width: 60%;
+  text-align: center;
+}
+
+/************************************ thisClubs page */
+
+
+.wrapthisclub{
+  color: white;
+  font-size: 19px;
+  max-width: 100%;
+  text-align: center;
+  padding: 10px;
+}
